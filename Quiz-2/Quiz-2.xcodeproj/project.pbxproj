@@ -8,30 +8,44 @@
 
 /* Begin PBXBuildFile section */
 		1E5DEA43222111DB000A74C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5DEA42222111DB000A74C1 /* AppDelegate.swift */; };
+<<<<<<< HEAD
 		1E5DEA45222111DB000A74C1 /* CatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5DEA44222111DB000A74C1 /* CatViewController.swift */; };
+=======
+		1E5DEA45222111DB000A74C1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5DEA44222111DB000A74C1 /* ViewController.swift */; };
+>>>>>>> dcab991bb38cdbbcb636482f2158022451af550b
 		1E5DEA48222111DB000A74C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E5DEA46222111DB000A74C1 /* Main.storyboard */; };
 		1E5DEA4B222111DB000A74C1 /* Quiz_2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1E5DEA49222111DB000A74C1 /* Quiz_2.xcdatamodeld */; };
 		1E5DEA4D222111DC000A74C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E5DEA4C222111DC000A74C1 /* Assets.xcassets */; };
 		1E5DEA50222111DC000A74C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E5DEA4E222111DC000A74C1 /* LaunchScreen.storyboard */; };
 		589D4D601226718D498EBA39 /* Pods_Quiz_2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7DDC4EA898CDDEB07F02596 /* Pods_Quiz_2.framework */; };
+<<<<<<< HEAD
 		93379A9622218B7000F7F6FB /* Cat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93379A9522218B7000F7F6FB /* Cat.swift */; };
 		93379A9A22218CD200F7F6FB /* CatTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93379A9822218CD200F7F6FB /* CatTableViewCell.swift */; };
 		93379A9B22218CD200F7F6FB /* CatTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 93379A9922218CD200F7F6FB /* CatTableViewCell.xib */; };
+=======
+>>>>>>> dcab991bb38cdbbcb636482f2158022451af550b
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		12364FA131CF7665B674A877 /* Pods-Quiz-2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Quiz-2.release.xcconfig"; path = "Pods/Target Support Files/Pods-Quiz-2/Pods-Quiz-2.release.xcconfig"; sourceTree = "<group>"; };
 		1E5DEA3F222111DB000A74C1 /* Quiz-2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quiz-2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E5DEA42222111DB000A74C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		1E5DEA44222111DB000A74C1 /* CatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatViewController.swift; sourceTree = "<group>"; };
+=======
+		1E5DEA44222111DB000A74C1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+>>>>>>> dcab991bb38cdbbcb636482f2158022451af550b
 		1E5DEA47222111DB000A74C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1E5DEA4A222111DB000A74C1 /* Quiz_2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Quiz_2.xcdatamodel; sourceTree = "<group>"; };
 		1E5DEA4C222111DC000A74C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E5DEA4F222111DC000A74C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1E5DEA51222111DC000A74C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		93379A9522218B7000F7F6FB /* Cat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat.swift; sourceTree = "<group>"; };
 		93379A9822218CD200F7F6FB /* CatTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatTableViewCell.swift; sourceTree = "<group>"; };
 		93379A9922218CD200F7F6FB /* CatTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CatTableViewCell.xib; sourceTree = "<group>"; };
+=======
+>>>>>>> dcab991bb38cdbbcb636482f2158022451af550b
 		DBB0003C9595376E2C253D3B /* Pods-Quiz-2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Quiz-2.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Quiz-2/Pods-Quiz-2.debug.xcconfig"; sourceTree = "<group>"; };
 		E7DDC4EA898CDDEB07F02596 /* Pods_Quiz_2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Quiz_2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -69,7 +83,11 @@
 		1E5DEA41222111DB000A74C1 /* Quiz-2 */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 				93379A9422218B4200F7F6FB /* Models */,
+=======
+				1E5DEA59222112D0000A74C1 /* Models */,
+>>>>>>> dcab991bb38cdbbcb636482f2158022451af550b
 				1E5DEA57222112B6000A74C1 /* Scenes */,
 				1E5DEA42222111DB000A74C1 /* AppDelegate.swift */,
 				1E5DEA46222111DB000A74C1 /* Main.storyboard */,
@@ -84,12 +102,17 @@
 		1E5DEA57222112B6000A74C1 /* Scenes */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 				93379A9722218CA700F7F6FB /* CostumeCells */,
 				1E5DEA44222111DB000A74C1 /* CatViewController.swift */,
+=======
+				1E5DEA44222111DB000A74C1 /* ViewController.swift */,
+>>>>>>> dcab991bb38cdbbcb636482f2158022451af550b
 			);
 			path = Scenes;
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
 		3F8E0B689F703F43CE294F21 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -103,10 +126,16 @@
 			isa = PBXGroup;
 			children = (
 				93379A9522218B7000F7F6FB /* Cat.swift */,
+=======
+		1E5DEA59222112D0000A74C1 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+>>>>>>> dcab991bb38cdbbcb636482f2158022451af550b
 			);
 			path = Models;
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
 		93379A9722218CA700F7F6FB /* CostumeCells */ = {
 			isa = PBXGroup;
 			children = (
@@ -114,6 +143,15 @@
 				93379A9922218CD200F7F6FB /* CatTableViewCell.xib */,
 			);
 			path = CostumeCells;
+=======
+		3F8E0B689F703F43CE294F21 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				DBB0003C9595376E2C253D3B /* Pods-Quiz-2.debug.xcconfig */,
+				12364FA131CF7665B674A877 /* Pods-Quiz-2.release.xcconfig */,
+			);
+			name = Pods;
+>>>>>>> dcab991bb38cdbbcb636482f2158022451af550b
 			sourceTree = "<group>";
 		};
 		C7F72E0680281135A432C8E5 /* Frameworks */ = {
@@ -184,7 +222,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+<<<<<<< HEAD
 				93379A9B22218CD200F7F6FB /* CatTableViewCell.xib in Resources */,
+=======
+>>>>>>> dcab991bb38cdbbcb636482f2158022451af550b
 				1E5DEA50222111DC000A74C1 /* LaunchScreen.storyboard in Resources */,
 				1E5DEA4D222111DC000A74C1 /* Assets.xcassets in Resources */,
 				1E5DEA48222111DB000A74C1 /* Main.storyboard in Resources */,
@@ -247,10 +288,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+<<<<<<< HEAD
 				93379A9622218B7000F7F6FB /* Cat.swift in Sources */,
 				1E5DEA4B222111DB000A74C1 /* Quiz_2.xcdatamodeld in Sources */,
 				93379A9A22218CD200F7F6FB /* CatTableViewCell.swift in Sources */,
 				1E5DEA45222111DB000A74C1 /* CatViewController.swift in Sources */,
+=======
+				1E5DEA4B222111DB000A74C1 /* Quiz_2.xcdatamodeld in Sources */,
+				1E5DEA45222111DB000A74C1 /* ViewController.swift in Sources */,
+>>>>>>> dcab991bb38cdbbcb636482f2158022451af550b
 				1E5DEA43222111DB000A74C1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
