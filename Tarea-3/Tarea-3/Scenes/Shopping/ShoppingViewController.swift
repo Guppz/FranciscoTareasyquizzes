@@ -69,7 +69,8 @@ class ShoppingViewController: UIViewController {
     private func loadShoppingList() {
         do {
             let realm = try Realm()
-            let shoppingList = realm.objects(Shopping.self)
+            var shoppingList = realm.objects(Shopping.self)
+            shoppingList = shoppingList.sorted(byKeyPath: "createAt",ascending: false)
             self.shoppingList = shoppingList
             tableView.reloadData()
         } catch let error as NSError {
