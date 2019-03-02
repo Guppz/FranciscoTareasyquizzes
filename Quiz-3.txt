@@ -1,0 +1,16 @@
+View controller -> model -> inderactor -> worker -> Model -> view controller
+
+
+El view controller solo esta encargado de pintar el texto no conoce nada.
+
+El inderactor se lo manda la info al worker.
+
+El worker es el encargado de la lógica de nuestras aplicación.
+
+El model es el encargado de comunicar cada capa.
+
+
+View controller tine un button le pantalla dos numeres estos números se lo manda al model donde se lo manda al 
+inderactor donde manda al worker para caluclar los dos numeros el resultado 
+lo regresa al model para que lo pinte en un label en view controller. 
+El view controles nunca sabe cual era como se hizo el calculo del resultado.
