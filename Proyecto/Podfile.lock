@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.0.0-beta.3)
+  - DeviceKit (1.11.0)
+  - JGProgressHUD (2.0.3)
+  - Kingfisher (5.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-beta.3)
+  - DeviceKit (~> 1.3)
+  - JGProgressHUD
+  - Kingfisher (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - DeviceKit
+    - JGProgressHUD
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  Alamofire: 50d6fa7e8cbe7f84559e86ab641ffd029db655f8
+  DeviceKit: a3a86f8dddbe1317a9a243cdf9646858bf135dce
+  JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+  Kingfisher: 07067cfacf371117330dceb4b4b8f5c4b691ab42
+
+PODFILE CHECKSUM: 4cadce6316e687a3327c306c766f4dfbabf9bf98
+
+COCOAPODS: 1.5.3
